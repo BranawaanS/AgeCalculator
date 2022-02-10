@@ -1,0 +1,10 @@
+#Name: Branawaan The Volkswagen God
+#Date:Feb 10
+#Prog Name: AgeCalculator
+#Purpose:To sum two numbers
+
+print("This program adds two numbers")
+num1 = int(input("Please enter the first number"))
+num2 = int(input("Please enter the second number"))
+addedTogether = num1+num2
+print("The sum of your two numbers is ",addedTogether)
